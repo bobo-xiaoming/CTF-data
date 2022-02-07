@@ -1,0 +1,8 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.72 filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
+*.001 filter=lfs diff=lfs merge=lfs -text
+*.002 filter=lfs diff=lfs merge=lfs -text
+*.003 filter=lfs diff=lfs merge=lfs -text
+*.004 filter=lfs diff=lfs merge=lfs -text
+*.005 filter=lfs diff=lfs merge=lfs -text
